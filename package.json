@@ -1,0 +1,19 @@
+{
+  "name": "viz-wordcloud-renderer",
+  "version": "1.0.0",
+  "description": "Wordcloud renderer for powerbi visual",
+  "main": "src/wordcloud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranshuagrawal/viz-wordcloud-renderer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranshuagrawal/viz-wordcloud-renderer/issues"
+  },
+  "homepage": "https://github.com/pranshuagrawal/viz-wordcloud-renderer#readme"
+}
